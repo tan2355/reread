@@ -5,6 +5,8 @@ corrector uses the current and two preceding decisions to predict an action
 residual. This package covers observation caching, training, and closed-loop
 RoboTwin evaluation.
 
+Model weights are available on [Hugging Face](https://huggingface.co/dihabso/ReRead/tree/main).
+
 Training samples all 50 RoboTwin 2.0 tasks uniformly (1/50 each), with a
 clean:randomized decision ratio of 1:10. Trajectories advance chronologically.
 Clean scenes use seen instructions in both training and closed-loop evaluation.
