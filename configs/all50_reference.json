@@ -1,0 +1,254 @@
+{
+  "tasks": {
+    "adjust_bottle": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "beat_block_hammer": {
+      "official_clean_percent": 99,
+      "official_randomized_percent": 97,
+      "official_mean_percent": 98
+    },
+    "blocks_ranking_rgb": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "blocks_ranking_size": {
+      "official_clean_percent": 94,
+      "official_randomized_percent": 98,
+      "official_mean_percent": 96
+    },
+    "click_alarmclock": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "click_bell": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "dump_bin_bigbin": {
+      "official_clean_percent": 97,
+      "official_randomized_percent": 96,
+      "official_mean_percent": 96.5
+    },
+    "grab_roller": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "handover_block": {
+      "official_clean_percent": 95,
+      "official_randomized_percent": 81,
+      "official_mean_percent": 88
+    },
+    "handover_mic": {
+      "official_clean_percent": 99,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 99.5
+    },
+    "hanging_mug": {
+      "official_clean_percent": 58,
+      "official_randomized_percent": 62,
+      "official_mean_percent": 60
+    },
+    "lift_pot": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "move_can_pot": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 88,
+      "official_mean_percent": 89
+    },
+    "move_pillbottle_pad": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 99,
+      "official_mean_percent": 99.5
+    },
+    "move_playingcard_away": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "move_stapler_pad": {
+      "official_clean_percent": 77,
+      "official_randomized_percent": 64,
+      "official_mean_percent": 70.5
+    },
+    "open_laptop": {
+      "official_clean_percent": 98,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 99
+    },
+    "open_microwave": {
+      "official_clean_percent": 62,
+      "official_randomized_percent": 45,
+      "official_mean_percent": 53.5
+    },
+    "pick_diverse_bottles": {
+      "official_clean_percent": 80,
+      "official_randomized_percent": 85,
+      "official_mean_percent": 82.5
+    },
+    "pick_dual_bottles": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 96,
+      "official_mean_percent": 98
+    },
+    "place_a2b_left": {
+      "official_clean_percent": 95,
+      "official_randomized_percent": 93,
+      "official_mean_percent": 94
+    },
+    "place_a2b_right": {
+      "official_clean_percent": 93,
+      "official_randomized_percent": 99,
+      "official_mean_percent": 96
+    },
+    "place_bread_basket": {
+      "official_clean_percent": 91,
+      "official_randomized_percent": 93,
+      "official_mean_percent": 92
+    },
+    "place_bread_skillet": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 93,
+      "official_mean_percent": 91.5
+    },
+    "place_burger_fries": {
+      "official_clean_percent": 96,
+      "official_randomized_percent": 99,
+      "official_mean_percent": 97.5
+    },
+    "place_can_basket": {
+      "official_clean_percent": 71,
+      "official_randomized_percent": 69,
+      "official_mean_percent": 70
+    },
+    "place_cans_plasticbox": {
+      "official_clean_percent": 99,
+      "official_randomized_percent": 96,
+      "official_mean_percent": 97.5
+    },
+    "place_container_plate": {
+      "official_clean_percent": 96,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 98
+    },
+    "place_dual_shoes": {
+      "official_clean_percent": 94,
+      "official_randomized_percent": 88,
+      "official_mean_percent": 91
+    },
+    "place_empty_cup": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "place_fan": {
+      "official_clean_percent": 96,
+      "official_randomized_percent": 96,
+      "official_mean_percent": 96
+    },
+    "place_mouse_pad": {
+      "official_clean_percent": 83,
+      "official_randomized_percent": 89,
+      "official_mean_percent": 86
+    },
+    "place_object_basket": {
+      "official_clean_percent": 89,
+      "official_randomized_percent": 88,
+      "official_mean_percent": 88.5
+    },
+    "place_object_scale": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 97,
+      "official_mean_percent": 93.5
+    },
+    "place_object_stand": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 94,
+      "official_mean_percent": 92
+    },
+    "place_phone_stand": {
+      "official_clean_percent": 97,
+      "official_randomized_percent": 99,
+      "official_mean_percent": 98
+    },
+    "place_shoe": {
+      "official_clean_percent": 96,
+      "official_randomized_percent": 99,
+      "official_mean_percent": 97.5
+    },
+    "press_stapler": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 97,
+      "official_mean_percent": 93.5
+    },
+    "put_bottles_dustbin": {
+      "official_clean_percent": 95,
+      "official_randomized_percent": 90,
+      "official_mean_percent": 92.5
+    },
+    "put_object_cabinet": {
+      "official_clean_percent": 94,
+      "official_randomized_percent": 89,
+      "official_mean_percent": 91.5
+    },
+    "rotate_qrcode": {
+      "official_clean_percent": 93,
+      "official_randomized_percent": 89,
+      "official_mean_percent": 91
+    },
+    "scan_object": {
+      "official_clean_percent": 89,
+      "official_randomized_percent": 92,
+      "official_mean_percent": 90.5
+    },
+    "shake_bottle": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "shake_bottle_horizontally": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "stack_blocks_three": {
+      "official_clean_percent": 95,
+      "official_randomized_percent": 97,
+      "official_mean_percent": 96
+    },
+    "stack_blocks_two": {
+      "official_clean_percent": 100,
+      "official_randomized_percent": 100,
+      "official_mean_percent": 100
+    },
+    "stack_bowls_three": {
+      "official_clean_percent": 80,
+      "official_randomized_percent": 81,
+      "official_mean_percent": 80.5
+    },
+    "stack_bowls_two": {
+      "official_clean_percent": 92,
+      "official_randomized_percent": 98,
+      "official_mean_percent": 95
+    },
+    "stamp_seal": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 94,
+      "official_mean_percent": 92
+    },
+    "turn_switch": {
+      "official_clean_percent": 61,
+      "official_randomized_percent": 59,
+      "official_mean_percent": 60
+    }
+  }
+}

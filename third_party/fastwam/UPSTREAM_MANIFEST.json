@@ -1,0 +1,155 @@
+{
+  "repository": "https://github.com/yuantianyuan01/FastWAM",
+  "revision": "7faa71108368fbb3b6885649f112af607427a2d4",
+  "hash_convention": "SHA-256 after CRLF to LF normalization. Modified files also record their upstream digest when available.",
+  "files": [
+    {
+      "path": "configs/data/robotwin.yaml",
+      "sha256": "36c12ff66ab64cf796a3bde03c60dd87d93b0444ecac1f79243b807841926bd4",
+      "upstream_sha256": "f1ba509fac21fc59d5a210d6f68bcf94640729ce00dce695b7ca6df24c7b5aa7"
+    },
+    {
+      "path": "configs/model/fastwam.yaml",
+      "sha256": "faf0a1f4a19d23059fa16f6d98ded3ce6c7ef0c74764f13cfdb03f44a15c1705",
+      "upstream_sha256": "0c9378106366d35f99ea3a82ef30afdfbab9a1d330af3e6de6c94c4490d24868"
+    },
+    {
+      "path": "configs/sim_robotwin.yaml",
+      "sha256": "914378ddcbc2fa7ee5f525d8baf44eafca185e866d8cac0867c1c4e2b484be9e",
+      "upstream_sha256": "b96b579a8f243c935f1e17f8f3d6e9b7cb6bf2f2a6823272f626ecc33d68056f"
+    },
+    {
+      "path": "configs/task/robotwin_uncond_3cam_384_1e-4.yaml",
+      "sha256": "2847d571d25fe783512f0976cbce64c6034243853bae90dc03ba31c22d41ad39",
+      "upstream_sha256": "2f78a207415b452b05e0238f3e00eb9942d7960413076b5b3cdcf1ce09caef9f"
+    },
+    {
+      "path": "configs/train.yaml",
+      "sha256": "94c0f7c2e3fc31650e42201e3ccbe74d955962e6d66c3c0371a4fff3964c5858",
+      "upstream_sha256": "42a60765bfdd842af01aacdde6066ce63be00698377fe7729110b795be684016"
+    },
+    {
+      "path": "experiments/robotwin/fastwam_policy/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "upstream_sha256": "f95d847740d78e88e41b5387dc5c6a9b858548a8898b2cd1f0bf00a78737e3eb"
+    },
+    {
+      "path": "experiments/robotwin/fastwam_policy/deploy_policy.py",
+      "sha256": "6e85bb7f8dff0807916a40510546e4b806df1a000bb4a3725f5f32b369673130",
+      "upstream_sha256": "57a34b527b6bc446a6f9e2e4a1b7098a449b7fc09275b20ee7e446e6ef0656ac"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "8379dddfbbb1154ad9cc57f008f1f8d4a8d26c3de99bd6b36aa4d8067888aa92"
+    },
+    {
+      "path": "src/fastwam/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "upstream_sha256": "c4149c5ff0f9abd1517360daf761e692feb8570eb7a0caa2dfde52d4412c3e23"
+    },
+    {
+      "path": "src/fastwam/datasets/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/fastwam/datasets/lerobot/processors/fastwam_processor.py",
+      "sha256": "3730354d599b495d3dd553ab56fd88592f97bab00fc9331c8f3dd896a8fc3526",
+      "upstream_sha256": "3aa0e275b3815b67785c6e38ac5fc400472f9d09ac18b2ab269ea77bf574ade4"
+    },
+    {
+      "path": "src/fastwam/datasets/lerobot/utils/normalizer.py",
+      "sha256": "0586da8e0f5a6f54e11399e074bc3f0cb44fc14becbffe5b34358bcb4c00befe",
+      "upstream_sha256": "5ac89a646cd6395e98feaa832f8fdf7c7e00857080af3d9c15710e243c43ad43"
+    },
+    {
+      "path": "src/fastwam/models/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "upstream_sha256": "ae4c5733f4bbf7caf31df2ae6f789516f6a10cd84a321f7d0375a7034253ac6d"
+    },
+    {
+      "path": "src/fastwam/models/wan22/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/fastwam/models/wan22/action_dit.py",
+      "sha256": "6c1f133d493dfc1d42b49dc63155382708405ce3a37e5bcc1c24c0928ddeb7d2",
+      "upstream_sha256": "631fdf598fbe06a95a41c1a27acd9de16f2187f3a2009e10690197527d18283b"
+    },
+    {
+      "path": "src/fastwam/models/wan22/fastwam.py",
+      "sha256": "0abe1ca3ddc935ae20a74039a0d2d4ff4d7612fa4c569cce9afc6c4382d5a3f8",
+      "upstream_sha256": "154c339efd33fae119fe902d6efb91cde7475e3cfd0e7b50e606278c1c3eac09"
+    },
+    {
+      "path": "src/fastwam/models/wan22/helpers/__init__.py",
+      "sha256": "f26116de229557a37a4812dc4ee75971f5f9e8b80240786ea4d0e5b0ff703cbf"
+    },
+    {
+      "path": "src/fastwam/models/wan22/helpers/gradient.py",
+      "sha256": "ba5d8f7272eb029dc6cd2849ca99b70f6ad5abb838d21c818beb0590620dc793"
+    },
+    {
+      "path": "src/fastwam/models/wan22/helpers/io.py",
+      "sha256": "1c6c1bc8a975b47092912833194fce25e2e3ac886fbab72d73af3ff5a00b3c62"
+    },
+    {
+      "path": "src/fastwam/models/wan22/helpers/loader.py",
+      "sha256": "e22f17f361e94682549751ad0dfa01a4526c8d7e2871692d51df839fb7e00338",
+      "upstream_sha256": "792f66bd0609c1365256aa24d43301340f81260c1651d89b04d2ae8224a08726"
+    },
+    {
+      "path": "src/fastwam/models/wan22/helpers/state_dict_converters.py",
+      "sha256": "81d213373e5056a8d8bf31768b9b04164138ea78d0b306e316334841499f4bf9"
+    },
+    {
+      "path": "src/fastwam/models/wan22/mot.py",
+      "sha256": "14c22fb3ce08d09c2181b2d3b19d61d583554fc8a6a4c0ba14b6c22656bc46f8",
+      "upstream_sha256": "2383e4cfa00efa9cde889493e0b6c861bc7b17d24d731f5ff38d3ebf8ab7f541"
+    },
+    {
+      "path": "src/fastwam/models/wan22/schedulers/scheduler_continuous.py",
+      "sha256": "9f5064f03f247b8e03de2584d1df08371794d39e3ed58908834b4d50351d395a",
+      "upstream_sha256": "2ececce284f7b9fe876965fbf5e11ca7b69caaf693979266b0f63062a589f181"
+    },
+    {
+      "path": "src/fastwam/models/wan22/wan_video_dit.py",
+      "sha256": "b09805ade072840724286c1de63e002c417520768e92547d9b6cee938894788e",
+      "upstream_sha256": "578712e83fac2815d3e3a3fd9134178028082deba361433122fe3c5764982dd6"
+    },
+    {
+      "path": "src/fastwam/models/wan22/wan_video_text_encoder.py",
+      "sha256": "389f0495b484ceaefe8b1f2c9e0243dbc970a7028fe01468cdeb37bc3725ede2",
+      "upstream_sha256": "aedf7f131556a39b99a273deec3a85d67f41b5367cef41f310f33a807ae60a87"
+    },
+    {
+      "path": "src/fastwam/models/wan22/wan_video_vae.py",
+      "sha256": "3c5d9dd236bc14368363cf5f175e5d0aed4b04af891f2b1d2b568e941ed3a2f1",
+      "upstream_sha256": "cb2b1b53f35a1a201c640ec52d12a7c4cb4ba1df322155addd3dc409e04dc07c"
+    },
+    {
+      "path": "src/fastwam/runtime.py",
+      "sha256": "3dd51e04c66ac0cfd7a42aa4b79b41957e69da38abd2f83a28aafcbc5871007c",
+      "upstream_sha256": "230a814b7a42a3f74145513f5775a3c6cd56ffa244635c536b3d1f384c5f82d0"
+    },
+    {
+      "path": "src/fastwam/utils/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "upstream_sha256": "2893c05b99b17162941c70a41859c2808f8ae390be367a26cac7d5ab93ee197b"
+    },
+    {
+      "path": "src/fastwam/utils/config_resolvers.py",
+      "sha256": "2b8fab40dad278c6f1dc535f5a6873f0459ecbbbddf526301472f95067f60fca",
+      "upstream_sha256": "01c48cbd42b86e636b70ccc3e193a81147162ba890777102b2c61086fa415340"
+    },
+    {
+      "path": "src/fastwam/utils/logging_config.py",
+      "sha256": "11c32216a165aae5637cc8b3b705f306dc6ae04a3974c7f4d0254aeac3d63cdb",
+      "upstream_sha256": "cadc4f6ad487c3f37171a6defad36d23d9ab8bf262f73a461cd9ee9b03b757e7"
+    },
+    {
+      "path": "src/fastwam/utils/pytorch_utils.py",
+      "sha256": "febc9a720502142f7aca7ca9e47a2a47f28bd6695ca3ac7625ff09986045a797",
+      "upstream_sha256": "ffc483e7fb435cd654326750eaffdbfc9243837c3140dcc74e45b24abb751a33"
+    }
+  ]
+}

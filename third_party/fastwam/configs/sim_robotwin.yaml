@@ -1,0 +1,11 @@
+# @package _global_
+
+defaults:
+  - train
+  - override /task: robotwin_uncond_3cam_384_1e-4
+  - _self_
+
+model:
+  load_text_encoder: true
+  skip_dit_load_from_pretrain: true
+  action_dit_pretrained_path: null

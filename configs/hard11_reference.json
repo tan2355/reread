@@ -1,0 +1,59 @@
+{
+  "tasks": {
+    "handover_block": {
+      "official_clean_percent": 95,
+      "official_randomized_percent": 81,
+      "official_mean_percent": 88
+    },
+    "hanging_mug": {
+      "official_clean_percent": 58,
+      "official_randomized_percent": 62,
+      "official_mean_percent": 60
+    },
+    "move_can_pot": {
+      "official_clean_percent": 90,
+      "official_randomized_percent": 88,
+      "official_mean_percent": 89
+    },
+    "move_stapler_pad": {
+      "official_clean_percent": 77,
+      "official_randomized_percent": 64,
+      "official_mean_percent": 70.5
+    },
+    "open_microwave": {
+      "official_clean_percent": 62,
+      "official_randomized_percent": 45,
+      "official_mean_percent": 53.5
+    },
+    "pick_diverse_bottles": {
+      "official_clean_percent": 80,
+      "official_randomized_percent": 85,
+      "official_mean_percent": 82.5
+    },
+    "place_can_basket": {
+      "official_clean_percent": 71,
+      "official_randomized_percent": 69,
+      "official_mean_percent": 70
+    },
+    "place_mouse_pad": {
+      "official_clean_percent": 83,
+      "official_randomized_percent": 89,
+      "official_mean_percent": 86
+    },
+    "place_object_basket": {
+      "official_clean_percent": 89,
+      "official_randomized_percent": 88,
+      "official_mean_percent": 88.5
+    },
+    "stack_bowls_three": {
+      "official_clean_percent": 80,
+      "official_randomized_percent": 81,
+      "official_mean_percent": 80.5
+    },
+    "turn_switch": {
+      "official_clean_percent": 61,
+      "official_randomized_percent": 59,
+      "official_mean_percent": 60
+    }
+  }
+}

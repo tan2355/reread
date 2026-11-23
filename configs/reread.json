@@ -1,0 +1,48 @@
+{
+  "action_dim": 14,
+  "proprio_dim": 14,
+  "horizon": 32,
+  "kv_dim": 3072,
+  "layers": [
+    4,
+    14,
+    24,
+    29
+  ],
+  "video_tokens": 64,
+  "action_tokens": 32,
+  "memory_frames": 3,
+  "width": 1536,
+  "heads": 24,
+  "depth": 5,
+  "ff_dim": 6144,
+  "inference_steps": 20,
+  "sigma_shift": 5.0,
+  "decision_stride": 20,
+  "history_dropout": 0.05,
+  "action_perturb_probability": 0.2,
+  "action_perturb_std": 0.05,
+  "activation_checkpointing": false,
+  "video_grid": [
+    12,
+    10
+  ],
+  "head_rows": 8,
+  "wrist_split": 5,
+  "camera_pools": [
+    [
+      4,
+      8
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "feature_schema": "reread-pre-rope-camera-v1",
+  "model_schema": "newm-endpoint-memory3-action-residual-v1"
+}
